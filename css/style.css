@@ -1,0 +1,150 @@
+body{
+	background-color: #d1e4ff;
+	margin: 0;
+	font-family: Arial, sans-serif;
+}
+.content{
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+	background-color: #fff;
+	box-sizing: border-box;
+}
+.content h1{
+	font-size: 42px;
+	margin-bottom: 44px;
+}
+.content h2{
+	font-size: 36px;
+	margin-bottom: 36px;
+}
+.content h3{
+	font-size: 30px;
+	margin-bottom: 31px;
+}
+.content h4{
+	font-size: 26px;
+	margin: 0;
+}
+.content h5{
+	font-size: 20px;
+	margin-top: 23px;
+	margin-bottom: 0;
+}
+.content h6{
+	font-size: 16px;
+	margin-top: 20px;
+	margin-bottom: 21px;
+}
+.content .title{
+	margin-top: 47px;
+	margin-bottom: 16px;
+}
+.content p{
+	font-size: 16px;
+	line-height: 1.4;
+	margin-bottom: 22px;
+}
+.content code{
+	background-color: #f0e6d6;
+    padding-right: 4px;
+    font-family: Courier New;
+    line-height: 1;
+}
+.content sup, sub{
+	font-size: 9.3px;
+}
+.content small{
+	font-size: 12px;
+}
+.content kbd{
+	background-color: #eadcea;
+    margin-right: 5px;
+    margin-left: 4px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+.content samp{
+	background-color: #eadcdc;
+    margin-right: 5px;
+    margin-left: 4px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+.content blockquote{
+	background-color: #eadcea;
+    border-left: 4px solid #b496b4;
+    padding: 14px 32px;
+    margin: 0;
+}
+.content pre{
+	background-color: #f0e6d6;
+    font-size: 16px;
+    margin-top: 18px;
+    margin-bottom: 54px;
+    line-height: 1.4;
+    height: 116px;
+    padding: 2px 14px;
+}
+.content .title1{
+	margin-top: 47px;
+	margin-bottom: 16px;
+}
+.content .title2{
+	margin-top: 29px;
+}
+.content ul{
+    line-height: 1.4;
+    padding-top: 7px;
+    padding-left: 36px;
+}
+.content li > a{
+	color: #2780e3;
+	text-decoration: none;
+    border-bottom: 1px solid #2780e3;
+}
+.content .title3{
+	margin-top: 34px;
+}
+.content ol{
+    line-height: 1.4;
+    padding-top: 8px;
+}
+.content .title4{
+	margin-top: 33px;
+}
+.content dl{
+	margin-top: 23px;
+	margin-bottom: 36px;
+}
+.content dt{
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+.content dd{
+    padding-bottom: 12px;
+    line-height: 1.4;
+    margin-left: 36px;
+}
+.content .title5{
+	margin-bottom: 13px;
+}
+.content table{
+    border-collapse: collapse;
+	border: 1px solid #b496b4;
+	width: 919px;
+	margin-bottom: 35px;
+	vertical-align: middle;
+}
+.content th{
+	background-color: #eadcea;
+}
+.content th,
+.content td{
+	border: 1px solid #b496b4;
+	height: 29px;
+}
+.content td{
+	padding-left: 25px;
+}
